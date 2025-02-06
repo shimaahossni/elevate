@@ -12,6 +12,8 @@ A Flutter-based mobile application for displaying a list of products with detail
       Displays an error message if product data fails to load.
 
 ## Screenshots
+![Screenshot_1738876420](https://github.com/user-attachments/assets/408b4608-cbf2-4753-9cb2-b94cead732e3)
+
 ![Screenshot_1738876420](https://github.com/user-attachments/assets/e7447e12-0e5d-4ee1-b10c-3ebfea54e859) ![Screenshot_1738876382](https://github.com/user-attachments/assets/e46a3f4b-9c53-458f-8d71-dc449951cef1) ![Screenshot_1738876385](https://github.com/user-attachments/assets/b62941ba-9fa9-4311-9979-f89f3943df4f)
 
 ## Video For Project
