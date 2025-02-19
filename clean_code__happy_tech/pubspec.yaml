@@ -1,24 +1,21 @@
-name: ecommerce_marwan
+name: clean_code__happy_tech
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
 
 environment:
-  sdk: ^3.6.1
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  injectable: ^2.5.0
-  get_it: ^8.0.3
+  data_connection_checker_tv: ^0.3.5-nullsafety
   dio: ^5.8.0+1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
-  injectable_generator:
-  build_runner:
 
 flutter:
   uses-material-design: true

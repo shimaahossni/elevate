@@ -10,7 +10,10 @@
 
 import 'package:ecommerce_marwan/features/home/domain/entities/category_entity.dart';
 import 'package:ecommerce_marwan/features/home/domain/repo/category_repo_contract.dart';
+import 'package:injectable/injectable.dart';
 
+
+@injectable
 class GetCategoryUseCase {
   CategoryRepoContract categoryRepo;
   GetCategoryUseCase(this.categoryRepo);
